@@ -16,5 +16,5 @@
 // @/g                正则匹配时匹配多个key键值
 // ==/KeyExplain==
 
-var body = $response.body.replace(/"key1":originalValue/g, '"key1":replaceValue').replace(/"key2":originalValue/g, '"key2":replaceValue')
+var body = $response.body.replace(/"key1":originalValue/g, '"key1":replaceValue').replace(/"key2":originalValue/g, '"key2":replaceValue');
 $done({ body });
