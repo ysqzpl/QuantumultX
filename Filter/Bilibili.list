@@ -1,2 +1,0 @@
-#～解决B站去广告间歇性失效 Bilibili.conf
-ip-cidr, 203.107.1.1/24, reject
