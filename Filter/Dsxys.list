@@ -1,0 +1,4 @@
+# > 大师兄影视去广告 https://github.com/ddgksf2013/Rewrite/blob/master/AdBlock/StartUp.conf
+^https?:\/\/sdk\.alibaba\.com\.ailbaba\.me\/dsx\.php\/v\d\/version url reject
+^https?:\/\/sdk\.alibaba\.com\.ailbaba\.me\/dsx\.php\/v\d\/advert\?position=[^2]+ url reject
+^https?:\/\/sdk\.alibaba\.com\.ailbaba\.me\/dsx\.php\/v\d\/top_notice\? url reject
